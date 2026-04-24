@@ -9,7 +9,7 @@
 | Mata Kuliah    | Pemrograman Mobile 2                 |
 | Dosen Pengampu | Donny Maulana, S.Kom., M.M.S.I.      |
 | YouTube        | [Tonton Demo](LINK_YOUTUBE_KAMU)     |
-| ClickUp        | [Lihat Project](LINK_CLICKUP_KAMU)   |
+| ClickUp        | [Lihat Project](https://app.clickup.com/90181792767/v/li/901812544605)   |
 
 <h1 align="center">MamahChef</h1>
 <img width="1080" height="787" alt="1776993800803" src="https://github.com/user-attachments/assets/666db57c-d5e7-47ed-b89d-ba9143239c3d" />
