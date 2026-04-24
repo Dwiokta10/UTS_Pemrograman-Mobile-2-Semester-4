@@ -92,6 +92,13 @@ Menampilkan:
 Menyimpan resep favorit pengguna.
 
 ---
+<img width="1920" height="1080" alt="8" src="https://github.com/user-attachments/assets/bb93ae8c-82d9-438c-aa29-ad6fd1d6789f" />
+
+<img width="1920" height="1080" alt="9" src="https://github.com/user-attachments/assets/97664018-9013-4a99-a070-5a5d929a226b" />
+
+<img width="1920" height="1080" alt="10" src="https://github.com/user-attachments/assets/cd758a6c-d45b-4ef0-b0e5-6ed1c676b6eb" />
+
+
 
 ## Fitur Unggulan
 
