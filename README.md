@@ -279,6 +279,9 @@ Menggunakan metode:
 
 ## ClickUp:
 <img width="1497" height="777" alt="Cuplikan layar 2026-04-24 083034" src="https://github.com/user-attachments/assets/1f2ca74b-96a0-4382-be69-29cfb823719a" />
+<img width="1920" height="1080" alt="5" src="https://github.com/user-attachments/assets/53ac45c4-1366-419b-b559-8982fef5d1e1" />
+<img width="1920" height="1080" alt="6" src="https://github.com/user-attachments/assets/6093040b-93b9-4dfe-bd70-82b3067b6fa9" />
+<img width="1920" height="1080" alt="7" src="https://github.com/user-attachments/assets/800b014e-117f-4314-a074-d799aa921683" />
 
 
 ---
