@@ -12,6 +12,9 @@
 | ClickUp        | [Lihat Project](LINK_CLICKUP_KAMU)   |
 
 <h1 align="center">MamahChef</h1>
+<img width="1080" height="787" alt="1776993800803" src="https://github.com/user-attachments/assets/666db57c-d5e7-47ed-b89d-ba9143239c3d" />
+
+
 <p align="center">
 Cita Rasa Nusantara, Sentuhan Hangat Resep Mamah Hebat
 </p>
