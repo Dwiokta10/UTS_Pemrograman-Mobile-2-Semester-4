@@ -27,8 +27,7 @@ Dalam proses pencarian ide tersebut, ingatan saya kembali pada sosok Ibu. Beliau
 
 Visi awal aplikasi ini adalah untuk memperkenalkan kekayaan kuliner Nusantara yang tersebar di 5 pulau besar di Indonesia, yaitu **Sumatera, Jawa, Kalimantan, Sulawesi, dan Papua**. Saya ingin setiap resep autentik dari berbagai pelosok negeri dapat terdokumentasi dan diakses dengan mudah dalam satu genggaman.
 
-Seiring berjalannya waktu, pengerjaan proyek ini terus berkembang. Memasuki semester 4 pada mata kuliah Pemrograman Mobile 2, saya melakukan evaluasi dan perencanaan ulang yang lebih matang melalui platform manajemen proyek ClickUp. Saya merasa aplikasi ini harus melangkah lebih jauh dengan mengintegrasikan teknologi mutakhir.
-
+Seiring berjalannya waktu, pengerjaan proyek ini terus berkembang. Memasuki semester 4 pada mata kuliah Pemrograman Mobile 2, saya melakukan evaluasi dan perencanaan ulang yang lebih matang melalui platform manajemen proyek ClickUp. Saya merasa aplikasi ini harus melangkah lebih jauh
 Kini, saya menambahkan fitur **Artificial Intelligence (AI)** yang inovatif. Melalui fitur ini, pengguna cukup melakukan pemindaian (scan) menggunakan kamera ponsel terhadap bahan makanan yang ada di hadapan mereka. Secara cerdas, sistem AI akan langsung mendeteksi bahan tersebut, menyajikan resep yang sesuai, memberikan panduan tata cara memasak yang detail, hingga menampilkan tingkat akurasi atau validitas resep tersebut.
 
 Dengan penambahan ini, **MamahChef** bertransformasi dari sekadar buku resep digital menjadi sebuah **asisten dapur pintar** yang mampu membantu pengguna dalam menemukan, memahami, serta menjaga keaslian cita rasa masakan Nusantara.
