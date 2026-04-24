@@ -277,7 +277,9 @@ Menggunakan metode:
 * In Progress
 * Done
 
-🔗 ClickUp: *
+## ClickUp:
+<img width="1497" height="777" alt="Cuplikan layar 2026-04-24 083034" src="https://github.com/user-attachments/assets/1f2ca74b-96a0-4382-be69-29cfb823719a" />
+
 
 ---
 
