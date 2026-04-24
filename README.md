@@ -1,35 +1,15 @@
 # Projek UTS Pemrograman Mobile 2 Semester 4
-<table>
-  <tr>
-    <td><b>Nama</b></td>
-    <td>Dwi Okta Ramadhani</td>
-  </tr>
-  <tr>
-    <td><b>NIM</b></td>
-    <td>312410056</td>
-  </tr>
-  <tr>
-    <td><b>Kelas</b></td>
-    <td>I.24.1A</td>
-  </tr>
-  <tr>
-    <td><b>Mata Kuliah</b></td>
-    <td>Pemrograman Mobile 2</td>
-  </tr>
-  <tr>
-    <td><b>Dosen Pengampu</b></td>
-    <td>Donny Maulana, S.Kom., M.M.S.I</td>
-  </tr>
-  <tr>
-    <td><b>Youtube</b></td>
-    <td>-</td>
-  </tr>
-  <tr>
-    <td><b>ClickUp</b></td>
-    <td><a href="LINK_CLICKUP_KAMU">Lihat Project</a></td>
-  </tr>
-</table>
 
+|                |                                      |
+| -------------- | ------------------------------------ |
+| Nama           | Dwi Okta Ramadhani                   |
+| NIM            | 312410056                            |
+| Kelas          | I.24.1A                              |
+| Universitas    | Universitas Pelita Bangsa            |
+| Mata Kuliah    | Pemrograman Mobile 2                 |
+| Dosen Pengampu | Donny Maulana, S.Kom., M.M.S.I.      |
+| YouTube        | [Tonton Demo](LINK_YOUTUBE_KAMU)     |
+| ClickUp        | [Lihat Project](LINK_CLICKUP_KAMU)   |
 
 <h1 align="center">MamahChef</h1>
 <p align="center">
