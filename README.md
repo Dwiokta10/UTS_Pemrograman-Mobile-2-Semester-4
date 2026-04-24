@@ -297,7 +297,7 @@ Menggunakan metode:
 * In Progress
 * Done
 
-🔗 Link ClickUp: *(isi link kamu di sini)*
+🔗 ClickUp: *
 
 ---
 
@@ -309,10 +309,6 @@ Sebagai mahasiswa, melalui pengembangan aplikasi MamahChef ini saya dapat mengga
 Dengan adanya fitur AI yang mampu mengenali makanan melalui kamera, saya dapat mengimplementasikan teknologi modern agar mempermudah pengguna dalam mencari resep secara cepat dan praktis. Selain itu, melalui penyajian berbagai resep khas Nusantara, aplikasi ini juga menjadi salah satu bentuk upaya dalam memperkenalkan dan melestarikan kuliner Indonesia.
 
 Secara keseluruhan, pengembangan MamahChef memberikan pengalaman belajar yang berharga bagi saya, baik dari sisi teknis maupun perancangan aplikasi. Saya berharap aplikasi ini dapat terus dikembangkan ke depannya agar menjadi lebih baik dan memberikan manfaat yang lebih luas bagi pengguna.
-
----
-
-> *“Melestarikan budaya bisa dimulai dari sepiring masakan.”* ❤️
 
 ---
 
